@@ -12,7 +12,7 @@ package ch.heigvd.res.lab00;
 
 public class Anvil implements IInstrument{
     private String sound = "Tinn";
-    private int volume = 5;
+    private int volume = 6;
     private String color = "gray";
     
    public String play(){
